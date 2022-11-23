@@ -1,0 +1,20 @@
+Introducción a C#
+
+-Qué usos tiene ?
+	Windows Store App
+	Office
+	Components
+	Website
+	Windows Client
+	Mobile Apps
+	Backend Service
+	Enterprise
+
+Ventajas
+	Objetos
+	CLR(Common Language Runtime)
+	Más allá de Microsoft
+	LINQ (Language Integrated Query)
+	Aprendizaje y mpas
+
+identidadfisicarenovada9_
